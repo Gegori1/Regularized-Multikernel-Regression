@@ -1,0 +1,5 @@
+{"target": 41.78556561470032, "n_estimators": 120, "max_depth": 3, "learning_rate": 0.05676634663771502, "random_state": 32}
+{"target": 41.77201688289642, "n_estimators": 145, "max_depth": 3, "learning_rate": 0.04373196985149457, "random_state": 32}
+{"target": 41.741740703582764, "n_estimators": 64, "max_depth": 3, "learning_rate": 0.09722395335060587, "random_state": 32}
+{"target": 41.72293841838837, "n_estimators": 115, "max_depth": 3, "learning_rate": 0.06462687802664883, "random_state": 32}
+{"target": 41.67874455451965, "n_estimators": 140, "max_depth": 3, "learning_rate": 0.04637909560808959, "random_state": 32}

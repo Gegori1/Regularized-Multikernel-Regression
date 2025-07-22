@@ -1,0 +1,211 @@
+nohup: ignoring input
+/home/alber/env/lib/python3.11/site-packages/optuna/_experimental.py:32: ExperimentalWarning: Argument ``multivariate`` is an experimental feature. The interface can change in the future.
+  warnings.warn(
+[I 2025-07-20 19:52:16,630] A new study created in memory with name: no-name-bce170c5-5329-47bc-97f3-a87b0d0ce8d2
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+Solver failed: Solver 'MOSEK' failed. Try another solver, or solve with verbose=True for more information.
+Solver failed: Solver 'MOSEK' failed. Try another solver, or solve with verbose=True for more information.
+trail number 3
+[I 2025-07-20 20:02:46,039] Trial 3 finished with value: 31.110404087814523 and parameters: {'C': 77.77008765596128, 'epsilon': 13.40044246708351, 'tau': 1825.9154046165334}. Best is trial 3 with value: 31.110404087814523.
+trail number 2
+[I 2025-07-20 20:02:48,109] Trial 2 finished with value: 23.00731329722425 and parameters: {'C': 18.12140149602257, 'epsilon': 14.953801249731777, 'tau': 2829.9387825484027}. Best is trial 2 with value: 23.00731329722425.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 1
+[I 2025-07-20 20:04:01,889] Trial 1 finished with value: 23.266666689974706 and parameters: {'C': 58.99083630551208, 'epsilon': 7.759818754548615, 'tau': 1517.6157165652558}. Best is trial 2 with value: 23.00731329722425.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 0
+[I 2025-07-20 20:04:41,393] Trial 0 finished with value: 20.88265234256067 and parameters: {'C': 54.14291811656451, 'epsilon': 2.4458850738664597, 'tau': 4260.185836502089}. Best is trial 0 with value: 20.88265234256067.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+Solver failed: Solver 'MOSEK' failed. Try another solver, or solve with verbose=True for more information.
+trail number 4
+[I 2025-07-20 20:14:27,957] Trial 4 finished with value: 23.53041043148385 and parameters: {'C': 55.36986380982943, 'epsilon': 12.415071689081737, 'tau': 1156.541457283155}. Best is trial 0 with value: 20.88265234256067.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 5
+[I 2025-07-20 20:15:09,489] Trial 5 finished with value: 23.848810703795913 and parameters: {'C': 90.72393943946948, 'epsilon': 11.357804196978824, 'tau': 2956.2770173554836}. Best is trial 0 with value: 20.88265234256067.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 7
+[I 2025-07-20 20:15:46,109] Trial 7 finished with value: 22.840575673520974 and parameters: {'C': 41.02602580371169, 'epsilon': 11.545747396397989, 'tau': 1340.0787794457094}. Best is trial 0 with value: 20.88265234256067.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 6
+[I 2025-07-20 20:16:18,927] Trial 6 finished with value: 25.17382001330503 and parameters: {'C': 68.5927384974902, 'epsilon': 6.318318449130913, 'tau': 1150.0131826587535}. Best is trial 0 with value: 20.88265234256067.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+trail number 10
+[I 2025-07-20 20:26:37,544] Trial 10 finished with value: 21.419493601361054 and parameters: {'C': 5.861441573538507, 'epsilon': 13.349757335692981, 'tau': 3595.7032780459203}. Best is trial 0 with value: 20.88265234256067.
+trail number 8
+[I 2025-07-20 20:26:39,274] Trial 8 finished with value: 20.576971150777798 and parameters: {'C': 85.49007099145574, 'epsilon': 0.9297793139994855, 'tau': 3060.603854313343}. Best is trial 8 with value: 20.576971150777798.
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")
+/home/alber/env/lib/python3.11/site-packages/cvxpy/atoms/quad_form.py:226: UserWarning: Forming a nonconvex expression quad_form(x, indefinite).
+  warnings.warn("Forming a nonconvex expression quad_form(x, indefinite).")

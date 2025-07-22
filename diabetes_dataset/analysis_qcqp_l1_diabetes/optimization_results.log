@@ -1,0 +1,590 @@
+nohup: ignoring input
+/home/alber/env/lib/python3.11/site-packages/optuna/_experimental.py:32: ExperimentalWarning: Argument ``multivariate`` is an experimental feature. The interface can change in the future.
+  warnings.warn(
+[I 2025-07-20 18:45:02,478] A new study created in memory with name: no-name-dbfee67e-efd8-4585-8db5-a1965c6c1b09
+trail number 1
+[I 2025-07-20 18:45:47,652] Trial 1 finished with value: 42.55102805505093 and parameters: {'C': 875.9159396049931, 'epsilon': 8.862777218719915, 'tau': 2951.0418737248456}. Best is trial 1 with value: 42.55102805505093.
+trail number 3
+[I 2025-07-20 18:45:53,685] Trial 3 finished with value: 42.644067756975645 and parameters: {'C': 145.0731589665688, 'epsilon': 13.138605406174129, 'tau': 3462.4188587643566}. Best is trial 1 with value: 42.55102805505093.
+trail number 0
+[I 2025-07-20 18:45:53,688] Trial 0 finished with value: 43.5600168643009 and parameters: {'C': 238.04867887140307, 'epsilon': 25.251143466903102, 'tau': 3887.7631028433443}. Best is trial 1 with value: 42.55102805505093.
+trail number 2
+[I 2025-07-20 18:45:53,695] Trial 2 finished with value: 42.44798368813194 and parameters: {'C': 587.74547691068, 'epsilon': 6.89256079047397, 'tau': 3711.125336490786}. Best is trial 2 with value: 42.44798368813194.
+trail number 4
+[I 2025-07-20 18:46:37,783] Trial 4 finished with value: 43.020406869850305 and parameters: {'C': 802.2866948685138, 'epsilon': 17.902767581875494, 'tau': 2444.5227658717167}. Best is trial 2 with value: 42.44798368813194.
+trail number 6
+[I 2025-07-20 18:46:39,216] Trial 6 finished with value: 42.569218474405986 and parameters: {'C': 480.12600831221704, 'epsilon': 9.232464028436024, 'tau': 3923.531919960218}. Best is trial 2 with value: 42.44798368813194.
+trail number 5
+[I 2025-07-20 18:46:42,303] Trial 5 finished with value: 43.37489648559173 and parameters: {'C': 864.9399724697159, 'epsilon': 22.9226195231236, 'tau': 3177.285986724826}. Best is trial 2 with value: 42.44798368813194.
+trail number 7
+[I 2025-07-20 18:46:44,631] Trial 7 finished with value: 42.904414490473926 and parameters: {'C': 896.2701781739332, 'epsilon': 15.866760207392442, 'tau': 4292.604092655649}. Best is trial 2 with value: 42.44798368813194.
+trail number 9
+[I 2025-07-20 18:47:28,414] Trial 9 finished with value: 42.232340185235536 and parameters: {'C': 635.501164800229, 'epsilon': 2.3992234262162015, 'tau': 3426.522119810046}. Best is trial 9 with value: 42.232340185235536.
+trail number 8
+[I 2025-07-20 18:47:29,206] Trial 8 finished with value: 41.9063301132328 and parameters: {'C': 37.728155003571004, 'epsilon': 15.547964681294431, 'tau': 2976.5641952799315}. Best is trial 8 with value: 41.9063301132328.
+trail number 11
+[I 2025-07-20 18:47:33,687] Trial 11 finished with value: 50.350993279984 and parameters: {'C': 17.175914462260256, 'epsilon': 8.809283699738305, 'tau': 4414.206351581593}. Best is trial 8 with value: 41.9063301132328.
+trail number 10
+[I 2025-07-20 18:47:34,110] Trial 10 finished with value: 42.64413680663925 and parameters: {'C': 817.1377447091414, 'epsilon': 10.76257535382129, 'tau': 2830.756394201739}. Best is trial 8 with value: 41.9063301132328.
+trail number 12
+[I 2025-07-20 18:48:20,057] Trial 12 finished with value: 43.0740958837566 and parameters: {'C': 219.16006137099296, 'epsilon': 19.14638589775038, 'tau': 4754.600380206384}. Best is trial 8 with value: 41.9063301132328.
+trail number 13
+[I 2025-07-20 18:48:21,061] Trial 13 finished with value: 43.76323553325121 and parameters: {'C': 696.1334754213494, 'epsilon': 27.794550319910652, 'tau': 2973.203079676726}. Best is trial 8 with value: 41.9063301132328.
+trail number 14
+[I 2025-07-20 18:48:25,361] Trial 14 finished with value: 43.126744209661766 and parameters: {'C': 538.1397513692034, 'epsilon': 19.554431746959036, 'tau': 2699.433237096155}. Best is trial 8 with value: 41.9063301132328.
+trail number 15
+[I 2025-07-20 18:48:25,659] Trial 15 finished with value: 42.998449224404126 and parameters: {'C': 886.6954181684333, 'epsilon': 17.52369573626202, 'tau': 4885.970382671263}. Best is trial 8 with value: 41.9063301132328.
+trail number 16
+[I 2025-07-20 18:49:10,333] Trial 16 finished with value: 42.562767949291995 and parameters: {'C': 808.0204168901208, 'epsilon': 9.101093753317382, 'tau': 3287.4427806362405}. Best is trial 8 with value: 41.9063301132328.
+trail number 17
+[I 2025-07-20 18:49:11,155] Trial 17 finished with value: 42.83654834123904 and parameters: {'C': 264.4140422181733, 'epsilon': 14.598707665258262, 'tau': 3697.064675809701}. Best is trial 8 with value: 41.9063301132328.
+trail number 19
+[I 2025-07-20 18:49:15,079] Trial 19 finished with value: 52.38457324245426 and parameters: {'C': 13.10808105432298, 'epsilon': 21.671246784348817, 'tau': 2830.182209718158}. Best is trial 8 with value: 41.9063301132328.
+trail number 18
+[I 2025-07-20 18:49:17,007] Trial 18 finished with value: 41.41422998661268 and parameters: {'C': 84.56692280707114, 'epsilon': 8.094900097177668, 'tau': 3319.2615072081167}. Best is trial 18 with value: 41.41422998661268.
+trail number 21
+[I 2025-07-20 18:49:59,159] Trial 21 finished with value: 42.77708923079753 and parameters: {'C': 440.3546962473356, 'epsilon': 13.451308679407745, 'tau': 3971.6572124776994}. Best is trial 18 with value: 41.41422998661268.
+trail number 20
+[I 2025-07-20 18:49:59,849] Trial 20 finished with value: 42.99142975320661 and parameters: {'C': 649.9183523576464, 'epsilon': 17.40379025412289, 'tau': 2007.4807679967498}. Best is trial 18 with value: 41.41422998661268.
+trail number 23
+[I 2025-07-20 18:50:04,175] Trial 23 finished with value: 41.70203325065224 and parameters: {'C': 87.30110597202722, 'epsilon': 2.385586370659144, 'tau': 2916.4251422801613}. Best is trial 18 with value: 41.41422998661268.
+trail number 22
+[I 2025-07-20 18:50:04,202] Trial 22 finished with value: 43.519683240930895 and parameters: {'C': 760.7141660139554, 'epsilon': 24.73702480056932, 'tau': 4362.022248226718}. Best is trial 18 with value: 41.41422998661268.
+trail number 25
+[I 2025-07-20 18:50:47,510] Trial 25 finished with value: 40.401360955297676 and parameters: {'C': 73.63021003309841, 'epsilon': 6.769468344469651, 'tau': 4585.819998609708}. Best is trial 25 with value: 40.401360955297676.
+trail number 24
+[I 2025-07-20 18:50:48,820] Trial 24 finished with value: 42.31552069687474 and parameters: {'C': 36.91522630895754, 'epsilon': 17.528580262229962, 'tau': 3249.780068119664}. Best is trial 25 with value: 40.401360955297676.
+trail number 27
+[I 2025-07-20 18:50:52,594] Trial 27 finished with value: 42.87618690494564 and parameters: {'C': 484.3538373936279, 'epsilon': 15.353581556086777, 'tau': 3185.340917026001}. Best is trial 25 with value: 40.401360955297676.
+trail number 26
+[I 2025-07-20 18:50:53,486] Trial 26 finished with value: 42.23223625244178 and parameters: {'C': 666.7320867472594, 'epsilon': 2.3795181237167697, 'tau': 3618.476845219759}. Best is trial 25 with value: 40.401360955297676.
+trail number 28
+[I 2025-07-20 18:51:35,732] Trial 28 finished with value: 42.962530051019414 and parameters: {'C': 900.8468657351292, 'epsilon': 16.909326997045877, 'tau': 2795.816133921646}. Best is trial 25 with value: 40.401360955297676.
+trail number 29
+[I 2025-07-20 18:51:35,790] Trial 29 finished with value: 43.64668188837183 and parameters: {'C': 127.28831519485209, 'epsilon': 29.225376118134665, 'tau': 2676.380424436363}. Best is trial 25 with value: 40.401360955297676.
+trail number 31
+[I 2025-07-20 18:51:39,995] Trial 31 finished with value: 43.72356413541817 and parameters: {'C': 758.7389336661452, 'epsilon': 27.294515761025867, 'tau': 4656.424473784002}. Best is trial 25 with value: 40.401360955297676.
+trail number 30
+[I 2025-07-20 18:51:40,400] Trial 30 finished with value: 42.339074439156434 and parameters: {'C': 840.6903856933542, 'epsilon': 4.90720273884157, 'tau': 4903.2893744471885}. Best is trial 25 with value: 40.401360955297676.
+trail number 32
+[I 2025-07-20 18:52:24,111] Trial 32 finished with value: 43.37141757468439 and parameters: {'C': 934.3443587162197, 'epsilon': 22.87958331249072, 'tau': 4846.828734610665}. Best is trial 25 with value: 40.401360955297676.
+trail number 33
+[I 2025-07-20 18:52:24,659] Trial 33 finished with value: 42.2409030871204 and parameters: {'C': 172.80122868750135, 'epsilon': 2.60482807104799, 'tau': 2677.143637983234}. Best is trial 25 with value: 40.401360955297676.
+trail number 35
+[I 2025-07-20 18:52:28,625] Trial 35 finished with value: 62.683185559829454 and parameters: {'C': 10.664493409970362, 'epsilon': 1.1360792474973673, 'tau': 3111.936382496447}. Best is trial 25 with value: 40.401360955297676.
+trail number 34
+[I 2025-07-20 18:52:29,269] Trial 34 finished with value: 42.132422298971235 and parameters: {'C': 124.46633229688929, 'epsilon': 2.7180361587199684, 'tau': 3413.823841137809}. Best is trial 25 with value: 40.401360955297676.
+trail number 36
+[I 2025-07-20 18:53:16,569] Trial 36 finished with value: 42.634148794657605 and parameters: {'C': 23.51099385723971, 'epsilon': 0.21827967124984582, 'tau': 2875.6538055997116}. Best is trial 25 with value: 40.401360955297676.
+trail number 37
+[I 2025-07-20 18:53:16,632] Trial 37 finished with value: 40.56524898149341 and parameters: {'C': 70.01162059922753, 'epsilon': 0.195843198617081, 'tau': 3393.3877965179845}. Best is trial 25 with value: 40.401360955297676.
+trail number 38
+[I 2025-07-20 18:53:20,983] Trial 38 finished with value: 42.01474199146811 and parameters: {'C': 124.49175910488378, 'epsilon': 0.039980535294510844, 'tau': 4094.2122205426926}. Best is trial 25 with value: 40.401360955297676.
+trail number 39
+[I 2025-07-20 18:53:21,645] Trial 39 finished with value: 40.35612697757252 and parameters: {'C': 54.193711648405014, 'epsilon': 10.219414826815626, 'tau': 2429.259050649155}. Best is trial 39 with value: 40.35612697757252.
+trail number 40
+trail number 41
+[I 2025-07-20 18:54:07,446] Trial 40 finished with value: 42.58205359449725 and parameters: {'C': 111.55160311029063, 'epsilon': 13.52579888376963, 'tau': 2893.1792796536765}. Best is trial 39 with value: 40.35612697757252.
+[I 2025-07-20 18:54:07,455] Trial 41 finished with value: 42.054952373873896 and parameters: {'C': 129.80539395324354, 'epsilon': 0.8863612653367214, 'tau': 4219.092103620003}. Best is trial 39 with value: 40.35612697757252.
+trail number 43
+[I 2025-07-20 18:54:12,664] Trial 43 finished with value: 42.31970774429587 and parameters: {'C': 279.0122324086609, 'epsilon': 4.502241880675735, 'tau': 4552.877410327702}. Best is trial 39 with value: 40.35612697757252.
+trail number 42
+[I 2025-07-20 18:54:12,680] Trial 42 finished with value: 42.55533471265504 and parameters: {'C': 189.0331497028189, 'epsilon': 8.949977934287514, 'tau': 2913.5967841879747}. Best is trial 39 with value: 40.35612697757252.
+trail number 45
+[I 2025-07-20 18:54:57,451] Trial 45 finished with value: 42.803117231348416 and parameters: {'C': 244.04786251930386, 'epsilon': 13.95217461432395, 'tau': 2287.1635267818956}. Best is trial 39 with value: 40.35612697757252.
+trail number 44
+[I 2025-07-20 18:54:57,462] Trial 44 finished with value: 42.70693708710475 and parameters: {'C': 211.85707299286585, 'epsilon': 12.037810128422423, 'tau': 2080.786586122429}. Best is trial 39 with value: 40.35612697757252.
+trail number 47
+[I 2025-07-20 18:55:02,348] Trial 47 finished with value: 42.732669380267374 and parameters: {'C': 170.07090056848008, 'epsilon': 12.58482467525765, 'tau': 2298.081730282234}. Best is trial 39 with value: 40.35612697757252.
+trail number 46
+[I 2025-07-20 18:55:02,396] Trial 46 finished with value: 41.00952384233235 and parameters: {'C': 70.7176771898013, 'epsilon': 8.079511983151377, 'tau': 2884.517328821237}. Best is trial 39 with value: 40.35612697757252.
+trail number 48
+[I 2025-07-20 18:55:47,239] Trial 48 finished with value: 42.16870185195866 and parameters: {'C': 478.56521419245473, 'epsilon': 0.7718607815445484, 'tau': 2118.209446345888}. Best is trial 39 with value: 40.35612697757252.
+trail number 49
+[I 2025-07-20 18:55:47,890] Trial 49 finished with value: 41.070121921350164 and parameters: {'C': 58.600573700027155, 'epsilon': 8.714230607095532, 'tau': 3827.619994075263}. Best is trial 39 with value: 40.35612697757252.
+trail number 51
+[I 2025-07-20 18:55:52,425] Trial 51 finished with value: 41.11198447476812 and parameters: {'C': 42.95102281125509, 'epsilon': 7.813688734982664, 'tau': 2216.070851775442}. Best is trial 39 with value: 40.35612697757252.
+trail number 50
+[I 2025-07-20 18:55:53,780] Trial 50 finished with value: 42.06071533682578 and parameters: {'C': 33.55367454543554, 'epsilon': 7.422499273159632, 'tau': 3819.818516746295}. Best is trial 39 with value: 40.35612697757252.
+trail number 54
+[I 2025-07-20 18:56:40,400] Trial 54 finished with value: 42.27175983117619 and parameters: {'C': 98.82313559468258, 'epsilon': 6.0019320610468965, 'tau': 2078.8989586576918}. Best is trial 39 with value: 40.35612697757252.
+trail number 53
+trail number 52
+[I 2025-07-20 18:56:41,568] Trial 53 finished with value: 42.520703406861884 and parameters: {'C': 33.03356204142998, 'epsilon': 10.417964909196797, 'tau': 3987.6169940932587}. Best is trial 39 with value: 40.35612697757252.
+[I 2025-07-20 18:56:41,570] Trial 52 finished with value: 41.736846675341965 and parameters: {'C': 95.66719503940445, 'epsilon': 7.528532864052782, 'tau': 3548.3703345873932}. Best is trial 39 with value: 40.35612697757252.
+trail number 55
+[I 2025-07-20 18:56:44,794] Trial 55 finished with value: 62.71601382647374 and parameters: {'C': 2.708953075576744, 'epsilon': 7.491036709877159, 'tau': 2322.9630261087436}. Best is trial 39 with value: 40.35612697757252.
+trail number 56
+[I 2025-07-20 18:57:30,057] Trial 56 finished with value: 56.835729890924334 and parameters: {'C': 10.372224417290383, 'epsilon': 8.768526744984378, 'tau': 2465.365789361938}. Best is trial 39 with value: 40.35612697757252.
+trail number 57
+[I 2025-07-20 18:57:30,679] Trial 57 finished with value: 42.35941995655895 and parameters: {'C': 146.0625877956577, 'epsilon': 7.779087896708633, 'tau': 4666.304129171901}. Best is trial 39 with value: 40.35612697757252.
+trail number 58
+[I 2025-07-20 18:57:33,042] Trial 58 finished with value: 42.21791286688979 and parameters: {'C': 123.64818838290915, 'epsilon': 10.42282303908108, 'tau': 4609.9913091266435}. Best is trial 39 with value: 40.35612697757252.
+trail number 59
+[I 2025-07-20 18:57:35,319] Trial 59 finished with value: 42.487220558858084 and parameters: {'C': 178.0604596276425, 'epsilon': 8.577598493134163, 'tau': 4568.451187670098}. Best is trial 39 with value: 40.35612697757252.
+trail number 61
+[I 2025-07-20 18:58:19,116] Trial 61 finished with value: 61.957758748570804 and parameters: {'C': 3.8133218540558147, 'epsilon': 4.367688772663141, 'tau': 4544.927277876614}. Best is trial 39 with value: 40.35612697757252.
+trail number 60
+[I 2025-07-20 18:58:20,008] Trial 60 finished with value: 42.48960418208058 and parameters: {'C': 166.02559460180544, 'epsilon': 8.970052436868517, 'tau': 4216.221452479259}. Best is trial 39 with value: 40.35612697757252.
+trail number 62
+[I 2025-07-20 18:58:21,835] Trial 62 finished with value: 42.3516893606063 and parameters: {'C': 309.6029094419535, 'epsilon': 5.165986325880968, 'tau': 3320.4221038413807}. Best is trial 39 with value: 40.35612697757252.
+trail number 63
+[I 2025-07-20 18:58:25,919] Trial 63 finished with value: 41.28663649512963 and parameters: {'C': 42.738601016240686, 'epsilon': 17.09120801297513, 'tau': 2231.523779447714}. Best is trial 39 with value: 40.35612697757252.
+trail number 64
+[I 2025-07-20 18:59:07,457] Trial 64 finished with value: 42.60191994846646 and parameters: {'C': 224.85385042372513, 'epsilon': 9.914866052903642, 'tau': 3473.856622660341}. Best is trial 39 with value: 40.35612697757252.
+trail number 66
+[I 2025-07-20 18:59:13,016] Trial 66 finished with value: 42.31062861624574 and parameters: {'C': 954.7246772734011, 'epsilon': 4.299887169216618, 'tau': 2127.7613942229245}. Best is trial 39 with value: 40.35612697757252.
+trail number 65
+[I 2025-07-20 18:59:13,158] Trial 65 finished with value: 43.38028951680871 and parameters: {'C': 152.1452225213119, 'epsilon': 28.09586801874242, 'tau': 4919.737240122456}. Best is trial 39 with value: 40.35612697757252.
+trail number 67
+[I 2025-07-20 18:59:17,585] Trial 67 finished with value: 41.86347002326689 and parameters: {'C': 71.24101107163382, 'epsilon': 21.341318417089163, 'tau': 2117.761654432412}. Best is trial 39 with value: 40.35612697757252.
+trail number 68
+[I 2025-07-20 18:59:57,899] Trial 68 finished with value: 52.59226961333885 and parameters: {'C': 12.0258771316864, 'epsilon': 13.679083500283093, 'tau': 2494.5405856972843}. Best is trial 39 with value: 40.35612697757252.
+trail number 69
+[I 2025-07-20 19:00:02,119] Trial 69 finished with value: 41.04688121836077 and parameters: {'C': 52.60888000725936, 'epsilon': 13.571647144983698, 'tau': 2456.185162167313}. Best is trial 39 with value: 40.35612697757252.
+trail number 70
+[I 2025-07-20 19:00:02,941] Trial 70 finished with value: 55.39502031231844 and parameters: {'C': 10.791688474961163, 'epsilon': 15.188091675415869, 'tau': 2448.6405267305527}. Best is trial 39 with value: 40.35612697757252.
+trail number 71
+[I 2025-07-20 19:00:06,998] Trial 71 finished with value: 58.90887205680067 and parameters: {'C': 9.274156767268948, 'epsilon': 16.261242785107587, 'tau': 2105.529707270452}. Best is trial 39 with value: 40.35612697757252.
+trail number 72
+[I 2025-07-20 19:00:46,443] Trial 72 finished with value: 41.746012200751785 and parameters: {'C': 86.47133299793089, 'epsilon': 7.878530435356041, 'tau': 2895.950508491488}. Best is trial 39 with value: 40.35612697757252.
+trail number 73
+[I 2025-07-20 19:00:50,289] Trial 73 finished with value: 43.88233163936988 and parameters: {'C': 21.41807545372757, 'epsilon': 8.818511331503716, 'tau': 2734.676254749045}. Best is trial 39 with value: 40.35612697757252.
+trail number 74
+[I 2025-07-20 19:00:51,358] Trial 74 finished with value: 63.49754472897075 and parameters: {'C': 5.223433498397696, 'epsilon': 11.362333706758664, 'tau': 2609.1173001442103}. Best is trial 39 with value: 40.35612697757252.
+trail number 75
+[I 2025-07-20 19:00:56,689] Trial 75 finished with value: 42.43971226195616 and parameters: {'C': 256.1603872098444, 'epsilon': 6.770724174213938, 'tau': 2711.5985208277216}. Best is trial 39 with value: 40.35612697757252.
+trail number 76
+[I 2025-07-20 19:01:34,956] Trial 76 finished with value: 61.82177229324755 and parameters: {'C': 1.8551643917042853, 'epsilon': 10.332320821341588, 'tau': 2167.042695489201}. Best is trial 39 with value: 40.35612697757252.
+trail number 77
+[I 2025-07-20 19:01:39,523] Trial 77 finished with value: 43.05647192869058 and parameters: {'C': 165.21222121730978, 'epsilon': 18.576685002552324, 'tau': 2427.2317201873307}. Best is trial 39 with value: 40.35612697757252.
+trail number 78
+[I 2025-07-20 19:01:40,058] Trial 78 finished with value: 41.136248369174155 and parameters: {'C': 60.73877082113016, 'epsilon': 11.440921184360352, 'tau': 2052.807266194451}. Best is trial 39 with value: 40.35612697757252.
+trail number 79
+[I 2025-07-20 19:01:44,526] Trial 79 finished with value: 61.53371166835946 and parameters: {'C': 8.764975012463871, 'epsilon': 5.5139171841152335, 'tau': 2020.7681867536392}. Best is trial 39 with value: 40.35612697757252.
+trail number 80
+[I 2025-07-20 19:02:25,251] Trial 80 finished with value: 43.02510333326032 and parameters: {'C': 294.61101871680194, 'epsilon': 17.984012759055727, 'tau': 3034.3122646468278}. Best is trial 39 with value: 40.35612697757252.
+trail number 81
+[I 2025-07-20 19:02:26,740] Trial 81 finished with value: 42.215381950219374 and parameters: {'C': 207.46847388814587, 'epsilon': 1.9911210975621012, 'tau': 3306.7210535919976}. Best is trial 39 with value: 40.35612697757252.
+trail number 82
+[I 2025-07-20 19:02:30,156] Trial 82 finished with value: 42.447570193253554 and parameters: {'C': 296.3063292324235, 'epsilon': 6.886471783278408, 'tau': 2326.80350765496}. Best is trial 39 with value: 40.35612697757252.
+trail number 83
+[I 2025-07-20 19:02:33,824] Trial 83 finished with value: 42.548899855499045 and parameters: {'C': 186.79029025180012, 'epsilon': 8.81972531167294, 'tau': 2180.6103956538154}. Best is trial 39 with value: 40.35612697757252.
+trail number 85
+[I 2025-07-20 19:03:16,316] Trial 85 finished with value: 41.307254330756415 and parameters: {'C': 63.52841437343648, 'epsilon': 11.61335173005981, 'tau': 2074.247833798689}. Best is trial 39 with value: 40.35612697757252.
+trail number 84
+[I 2025-07-20 19:03:16,483] Trial 84 finished with value: 42.77006656378036 and parameters: {'C': 106.44403799899845, 'epsilon': 16.15247112270315, 'tau': 2049.496370873733}. Best is trial 39 with value: 40.35612697757252.
+trail number 86
+[I 2025-07-20 19:03:19,999] Trial 86 finished with value: 42.76665924819459 and parameters: {'C': 141.32927242492784, 'epsilon': 13.456676571261397, 'tau': 2046.129480810023}. Best is trial 39 with value: 40.35612697757252.
+trail number 87
+[I 2025-07-20 19:03:20,651] Trial 87 finished with value: 60.88676438787276 and parameters: {'C': 0.9622187438297942, 'epsilon': 1.0843343197922461, 'tau': 3603.6069688257276}. Best is trial 39 with value: 40.35612697757252.
+trail number 89
+[I 2025-07-20 19:04:04,709] Trial 89 finished with value: 42.81240960246658 and parameters: {'C': 128.29328497362513, 'epsilon': 16.53326951915705, 'tau': 2628.42306928925}. Best is trial 39 with value: 40.35612697757252.
+trail number 88
+[I 2025-07-20 19:04:04,711] Trial 88 finished with value: 42.88243035802807 and parameters: {'C': 196.9602860656443, 'epsilon': 15.467549354830894, 'tau': 2124.3380385904115}. Best is trial 39 with value: 40.35612697757252.
+trail number 90
+[I 2025-07-20 19:04:08,397] Trial 90 finished with value: 61.21915121843648 and parameters: {'C': 3.7556523471335623, 'epsilon': 7.830259353668448, 'tau': 3557.79204492742}. Best is trial 39 with value: 40.35612697757252.
+trail number 91
+[I 2025-07-20 19:04:09,093] Trial 91 finished with value: 42.40971568509872 and parameters: {'C': 99.95416831344733, 'epsilon': 16.66005035922548, 'tau': 2956.170079640508}. Best is trial 39 with value: 40.35612697757252.
+trail number 92
+[I 2025-07-20 19:04:52,038] Trial 92 finished with value: 42.447512013564015 and parameters: {'C': 136.85687336925687, 'epsilon': 8.324243906371063, 'tau': 2982.8821635510853}. Best is trial 39 with value: 40.35612697757252.
+trail number 93
+[I 2025-07-20 19:04:52,157] Trial 93 finished with value: 43.795297385031375 and parameters: {'C': 414.613651305432, 'epsilon': 28.19593467371658, 'tau': 2714.3409468236573}. Best is trial 39 with value: 40.35612697757252.
+trail number 94
+[I 2025-07-20 19:04:56,558] Trial 94 finished with value: 42.22703087122449 and parameters: {'C': 85.7946786439956, 'epsilon': 9.229403275621484, 'tau': 2134.2706958177873}. Best is trial 39 with value: 40.35612697757252.
+trail number 95
+[I 2025-07-20 19:04:56,913] Trial 95 finished with value: 42.56146183987461 and parameters: {'C': 117.20834844420537, 'epsilon': 10.63178447997989, 'tau': 2095.044523320578}. Best is trial 39 with value: 40.35612697757252.
+trail number 97
+[I 2025-07-20 19:05:40,615] Trial 97 finished with value: 41.639027504511134 and parameters: {'C': 32.95168955260933, 'epsilon': 12.61278870037893, 'tau': 2030.0135079351505}. Best is trial 39 with value: 40.35612697757252.
+trail number 96
+[I 2025-07-20 19:05:41,028] Trial 96 finished with value: 44.64672572152803 and parameters: {'C': 17.941272669122043, 'epsilon': 12.426699635746411, 'tau': 2066.0800449533676}. Best is trial 39 with value: 40.35612697757252.
+trail number 99
+[I 2025-07-20 19:05:46,699] Trial 99 finished with value: 42.26360969718145 and parameters: {'C': 191.66269420496653, 'epsilon': 3.7767408355895964, 'tau': 4990.17701367813}. Best is trial 39 with value: 40.35612697757252.
+trail number 98
+[I 2025-07-20 19:05:46,714] Trial 98 finished with value: 42.48337413705538 and parameters: {'C': 144.18866130152918, 'epsilon': 7.533228713825328, 'tau': 2016.0009361568564}. Best is trial 39 with value: 40.35612697757252.
+trail number 100
+[I 2025-07-20 19:06:30,943] Trial 100 finished with value: 58.97402935583874 and parameters: {'C': 13.322570429013808, 'epsilon': 17.052412667693478, 'tau': 4354.187644524512}. Best is trial 39 with value: 40.35612697757252.
+trail number 101
+[I 2025-07-20 19:06:31,444] Trial 101 finished with value: 41.846461140275245 and parameters: {'C': 53.3183113961922, 'epsilon': 19.528509738426845, 'tau': 4487.538790998412}. Best is trial 39 with value: 40.35612697757252.
+trail number 103
+[I 2025-07-20 19:06:35,610] Trial 103 finished with value: 63.49754472897075 and parameters: {'C': 1.3280887953528406, 'epsilon': 11.731784841405434, 'tau': 4337.7085012300495}. Best is trial 39 with value: 40.35612697757252.
+trail number 102
+[I 2025-07-20 19:06:36,400] Trial 102 finished with value: 61.270555915744445 and parameters: {'C': 5.932010170368102, 'epsilon': 8.240635487757295, 'tau': 4740.47377430064}. Best is trial 39 with value: 40.35612697757252.
+trail number 105
+[I 2025-07-20 19:07:19,789] Trial 105 finished with value: 42.064958493382726 and parameters: {'C': 108.11424551728086, 'epsilon': 5.0100522682291615, 'tau': 3485.3213186740672}. Best is trial 39 with value: 40.35612697757252.
+trail number 104
+[I 2025-07-20 19:07:20,669] Trial 104 finished with value: 42.052970026538624 and parameters: {'C': 97.56566688319073, 'epsilon': 10.324363951100095, 'tau': 3244.460673078558}. Best is trial 39 with value: 40.35612697757252.
+trail number 107
+[I 2025-07-20 19:07:26,076] Trial 107 finished with value: 42.32048259935185 and parameters: {'C': 140.7344488028063, 'epsilon': 6.220864609141468, 'tau': 3412.659530009813}. Best is trial 39 with value: 40.35612697757252.
+trail number 106
+[I 2025-07-20 19:07:26,078] Trial 106 finished with value: 42.524600606659135 and parameters: {'C': 121.33708050214449, 'epsilon': 11.985518433193285, 'tau': 3376.4144549415873}. Best is trial 39 with value: 40.35612697757252.
+trail number 109
+[I 2025-07-20 19:08:10,473] Trial 109 finished with value: 41.64103875357301 and parameters: {'C': 34.95019958968578, 'epsilon': 5.90364845657201, 'tau': 2700.7255537226724}. Best is trial 39 with value: 40.35612697757252.
+trail number 108
+[I 2025-07-20 19:08:10,512] Trial 108 finished with value: 42.64973953611992 and parameters: {'C': 218.3662177596778, 'epsilon': 10.872949282070756, 'tau': 3815.614849340576}. Best is trial 39 with value: 40.35612697757252.
+trail number 110
+[I 2025-07-20 19:08:14,995] Trial 110 finished with value: 42.29471902009557 and parameters: {'C': 902.9151619327697, 'epsilon': 3.9360421020012453, 'tau': 3834.841844653871}. Best is trial 39 with value: 40.35612697757252.
+trail number 111
+[I 2025-07-20 19:08:15,033] Trial 111 finished with value: 41.01436627250433 and parameters: {'C': 51.372256326588875, 'epsilon': 8.14955273495897, 'tau': 2687.677550689302}. Best is trial 39 with value: 40.35612697757252.
+trail number 113
+[I 2025-07-20 19:08:58,416] Trial 113 finished with value: 43.128603632519 and parameters: {'C': 830.680016342593, 'epsilon': 19.581491651209827, 'tau': 3628.4682568438193}. Best is trial 39 with value: 40.35612697757252.
+trail number 112
+[I 2025-07-20 19:08:58,991] Trial 112 finished with value: 42.27769302078477 and parameters: {'C': 353.1534400033946, 'epsilon': 3.5392515192879426, 'tau': 3892.4123381693184}. Best is trial 39 with value: 40.35612697757252.
+trail number 114
+[I 2025-07-20 19:09:03,029] Trial 114 finished with value: 42.55467332941116 and parameters: {'C': 27.489971761732154, 'epsilon': 14.701346966800307, 'tau': 2252.9797363306257}. Best is trial 39 with value: 40.35612697757252.
+trail number 115
+[I 2025-07-20 19:09:03,064] Trial 115 finished with value: 42.595504553216536 and parameters: {'C': 222.17612577372708, 'epsilon': 9.782675969670551, 'tau': 2749.0951534815986}. Best is trial 39 with value: 40.35612697757252.
+trail number 116
+[I 2025-07-20 19:09:45,920] Trial 116 finished with value: 42.62605122506909 and parameters: {'C': 256.3396679951999, 'epsilon': 10.386145398458499, 'tau': 2823.2001809155267}. Best is trial 39 with value: 40.35612697757252.
+trail number 117
+[I 2025-07-20 19:09:47,113] Trial 117 finished with value: 43.28068745720189 and parameters: {'C': 24.075956500152934, 'epsilon': 11.293551117452925, 'tau': 2739.9835102821785}. Best is trial 39 with value: 40.35612697757252.
+trail number 119
+[I 2025-07-20 19:09:48,568] Trial 119 finished with value: 61.87953782579344 and parameters: {'C': 8.421739668479383, 'epsilon': 10.919788397125831, 'tau': 2966.6123661940296}. Best is trial 39 with value: 40.35612697757252.
+trail number 118
+[I 2025-07-20 19:09:52,676] Trial 118 finished with value: 60.56993620864013 and parameters: {'C': 6.205749932290317, 'epsilon': 9.201014386216158, 'tau': 3094.5773044398056}. Best is trial 39 with value: 40.35612697757252.
+trail number 120
+[I 2025-07-20 19:10:31,181] Trial 120 finished with value: 41.04106834552016 and parameters: {'C': 48.44125576755988, 'epsilon': 11.244426106643022, 'tau': 2673.1558637481057}. Best is trial 39 with value: 40.35612697757252.
+trail number 122
+[I 2025-07-20 19:10:35,498] Trial 122 finished with value: 61.57537706448113 and parameters: {'C': 3.95580714499404, 'epsilon': 5.852296982303201, 'tau': 2653.5271665554833}. Best is trial 39 with value: 40.35612697757252.
+trail number 121
+[I 2025-07-20 19:10:36,036] Trial 121 finished with value: 41.33741771901355 and parameters: {'C': 70.35433724676432, 'epsilon': 3.378248662859276, 'tau': 2339.8645063547556}. Best is trial 39 with value: 40.35612697757252.
+trail number 123
+[I 2025-07-20 19:10:40,130] Trial 123 finished with value: 42.20383949366476 and parameters: {'C': 131.57745090664537, 'epsilon': 2.4070078346092885, 'tau': 2524.4920352409445}. Best is trial 39 with value: 40.35612697757252.
+trail number 124
+[I 2025-07-20 19:11:19,240] Trial 124 finished with value: 42.10384266615883 and parameters: {'C': 92.0005199142982, 'epsilon': 3.7264457979070755, 'tau': 2327.7473300555775}. Best is trial 39 with value: 40.35612697757252.
+trail number 126
+[I 2025-07-20 19:11:23,860] Trial 126 finished with value: 42.196689751734176 and parameters: {'C': 269.33163754446196, 'epsilon': 1.5316066523410345, 'tau': 2564.58001112583}. Best is trial 39 with value: 40.35612697757252.
+trail number 125
+[I 2025-07-20 19:11:24,650] Trial 125 finished with value: 43.570615529416465 and parameters: {'C': 463.76388554999295, 'epsilon': 25.372053721508735, 'tau': 4358.714465471509}. Best is trial 39 with value: 40.35612697757252.
+trail number 127
+[I 2025-07-20 19:11:29,400] Trial 127 finished with value: 42.08429665511659 and parameters: {'C': 111.61230129662331, 'epsilon': 0.7720248288056926, 'tau': 2461.9070529637324}. Best is trial 39 with value: 40.35612697757252.
+trail number 128
+[I 2025-07-20 19:12:07,847] Trial 128 finished with value: 60.16990922106184 and parameters: {'C': 8.57844768345911, 'epsilon': 0.9746098088526978, 'tau': 2046.1581541862797}. Best is trial 39 with value: 40.35612697757252.
+trail number 129
+[I 2025-07-20 19:12:13,308] Trial 129 finished with value: 42.16943785968048 and parameters: {'C': 217.50366517761452, 'epsilon': 0.7924885689279897, 'tau': 2047.9865625838154}. Best is trial 39 with value: 40.35612697757252.
+trail number 130
+[I 2025-07-20 19:12:14,736] Trial 130 finished with value: 42.33665948284529 and parameters: {'C': 99.61853635826893, 'epsilon': 8.98694620113471, 'tau': 2580.4629538852164}. Best is trial 39 with value: 40.35612697757252.
+trail number 131
+[I 2025-07-20 19:12:17,541] Trial 131 finished with value: 63.49754472897075 and parameters: {'C': 0.5175477105149398, 'epsilon': 17.831689468654247, 'tau': 2552.4421729327023}. Best is trial 39 with value: 40.35612697757252.
+trail number 132
+[I 2025-07-20 19:12:57,791] Trial 132 finished with value: 61.20546298132327 and parameters: {'C': 1.254425575519221, 'epsilon': 7.635316126612849, 'tau': 2406.0690755605146}. Best is trial 39 with value: 40.35612697757252.
+trail number 133
+[I 2025-07-20 19:12:58,449] Trial 133 finished with value: 42.06496799708545 and parameters: {'C': 132.0880190208417, 'epsilon': 0.3015950425763707, 'tau': 3528.167424719538}. Best is trial 39 with value: 40.35612697757252.
+trail number 134
+[I 2025-07-20 19:13:03,519] Trial 134 finished with value: 42.56962313769893 and parameters: {'C': 154.72373731504263, 'epsilon': 9.373430319966712, 'tau': 2578.1476409261127}. Best is trial 39 with value: 40.35612697757252.
+trail number 135
+[I 2025-07-20 19:13:05,185] Trial 135 finished with value: 42.58623485300817 and parameters: {'C': 158.08301816002148, 'epsilon': 9.660702703478988, 'tau': 2547.433659497145}. Best is trial 39 with value: 40.35612697757252.
+trail number 136
+[I 2025-07-20 19:13:47,100] Trial 136 finished with value: 42.58183646473439 and parameters: {'C': 149.6480726451045, 'epsilon': 9.669892579934121, 'tau': 2427.1581444458925}. Best is trial 39 with value: 40.35612697757252.
+trail number 137
+[I 2025-07-20 19:13:49,282] Trial 137 finished with value: 42.68475397478815 and parameters: {'C': 161.21543967224437, 'epsilon': 11.847042309323754, 'tau': 2785.7837228429516}. Best is trial 39 with value: 40.35612697757252.
+trail number 139
+[I 2025-07-20 19:13:52,534] Trial 139 finished with value: 42.57745012212947 and parameters: {'C': 104.16531127877148, 'epsilon': 13.351374511916207, 'tau': 2503.437727735061}. Best is trial 39 with value: 40.35612697757252.
+trail number 138
+[I 2025-07-20 19:13:53,940] Trial 138 finished with value: 42.828252342719296 and parameters: {'C': 200.83027116720558, 'epsilon': 14.43976357764928, 'tau': 2527.44757294852}. Best is trial 39 with value: 40.35612697757252.
+trail number 140
+[I 2025-07-20 19:14:31,572] Trial 140 finished with value: 42.845175052477224 and parameters: {'C': 154.67113513347005, 'epsilon': 15.164139446009731, 'tau': 2518.0593221285253}. Best is trial 39 with value: 40.35612697757252.
+trail number 141
+[I 2025-07-20 19:14:35,250] Trial 141 finished with value: 43.192232797154446 and parameters: {'C': 274.1529964526665, 'epsilon': 20.518646562739605, 'tau': 2088.8170134832462}. Best is trial 39 with value: 40.35612697757252.
+trail number 142
+[I 2025-07-20 19:14:37,546] Trial 142 finished with value: 62.718285637178994 and parameters: {'C': 5.075648029367429, 'epsilon': 5.541560250270049, 'tau': 3742.733307261421}. Best is trial 39 with value: 40.35612697757252.
+trail number 143
+[I 2025-07-20 19:14:43,817] Trial 143 finished with value: 42.61715373777734 and parameters: {'C': 704.2565937624009, 'epsilon': 10.226926935443931, 'tau': 4226.272235852685}. Best is trial 39 with value: 40.35612697757252.
+trail number 144
+[I 2025-07-20 19:15:18,395] Trial 144 finished with value: 42.53711474154126 and parameters: {'C': 105.83680978573497, 'epsilon': 11.18698321922293, 'tau': 2027.6269872007929}. Best is trial 39 with value: 40.35612697757252.
+trail number 146
+[I 2025-07-20 19:15:25,772] Trial 146 finished with value: 41.14495390215694 and parameters: {'C': 39.42972540689222, 'epsilon': 10.811156552317778, 'tau': 2097.163739960044}. Best is trial 39 with value: 40.35612697757252.
+trail number 145
+[I 2025-07-20 19:15:25,802] Trial 145 finished with value: 49.66817184247456 and parameters: {'C': 11.91955000925114, 'epsilon': 6.2686194869684115, 'tau': 2082.397613775767}. Best is trial 39 with value: 40.35612697757252.
+trail number 147
+[I 2025-07-20 19:15:31,277] Trial 147 finished with value: 47.84298776811013 and parameters: {'C': 14.765815911436427, 'epsilon': 15.14876549517609, 'tau': 2444.8030604228875}. Best is trial 39 with value: 40.35612697757252.
+trail number 148
+[I 2025-07-20 19:16:06,054] Trial 148 finished with value: 41.528084220271055 and parameters: {'C': 68.0145065327695, 'epsilon': 11.757255186115929, 'tau': 2088.8113687727714}. Best is trial 39 with value: 40.35612697757252.
+trail number 150
+[I 2025-07-20 19:16:14,044] Trial 150 finished with value: 41.41186789644543 and parameters: {'C': 37.60374711974368, 'epsilon': 12.12146686014637, 'tau': 2285.4713902269195}. Best is trial 39 with value: 40.35612697757252.
+trail number 149
+[I 2025-07-20 19:16:14,957] Trial 149 finished with value: 40.63981382101382 and parameters: {'C': 55.99368665718016, 'epsilon': 9.266249972392465, 'tau': 2013.2658181022107}. Best is trial 39 with value: 40.35612697757252.
+trail number 151
+[I 2025-07-20 19:16:17,977] Trial 151 finished with value: 59.692135110926486 and parameters: {'C': 2.623691840276301, 'epsilon': 8.98016389616889, 'tau': 2241.8111216358466}. Best is trial 39 with value: 40.35612697757252.
+trail number 152
+[I 2025-07-20 19:16:52,664] Trial 152 finished with value: 42.6490820917067 and parameters: {'C': 295.16168766819493, 'epsilon': 10.859210183263688, 'tau': 2023.7438594951686}. Best is trial 39 with value: 40.35612697757252.
+trail number 154
+[I 2025-07-20 19:17:00,757] Trial 154 finished with value: 43.47552605602068 and parameters: {'C': 22.094474769410276, 'epsilon': 11.415057279143701, 'tau': 2432.415635990583}. Best is trial 39 with value: 40.35612697757252.
+trail number 153
+[I 2025-07-20 19:17:00,766] Trial 153 finished with value: 59.59633444242918 and parameters: {'C': 7.647548086251142, 'epsilon': 8.710495771166027, 'tau': 2539.7578352142928}. Best is trial 39 with value: 40.35612697757252.
+trail number 155
+[I 2025-07-20 19:17:04,113] Trial 155 finished with value: 42.525527690898045 and parameters: {'C': 256.7899067652417, 'epsilon': 8.344809939243211, 'tau': 2011.6062203356037}. Best is trial 39 with value: 40.35612697757252.
+trail number 156
+[I 2025-07-20 19:17:38,759] Trial 156 finished with value: 49.15674329458577 and parameters: {'C': 13.111698441542138, 'epsilon': 12.904114217124528, 'tau': 2318.9726167621957}. Best is trial 39 with value: 40.35612697757252.
+trail number 158
+[I 2025-07-20 19:17:47,710] Trial 158 finished with value: 41.92562163858359 and parameters: {'C': 60.486028729077816, 'epsilon': 29.405804211947828, 'tau': 4018.099751461529}. Best is trial 39 with value: 40.35612697757252.
+trail number 157
+[I 2025-07-20 19:17:48,435] Trial 157 finished with value: 43.84998473142183 and parameters: {'C': 844.8469235271178, 'epsilon': 28.880165051965967, 'tau': 3520.0134082461554}. Best is trial 39 with value: 40.35612697757252.
+trail number 159
+[I 2025-07-20 19:17:50,649] Trial 159 finished with value: 41.952386844300406 and parameters: {'C': 29.100849322617492, 'epsilon': 11.756340764706577, 'tau': 2167.910701831093}. Best is trial 39 with value: 40.35612697757252.
+trail number 160
+[I 2025-07-20 19:18:28,570] Trial 160 finished with value: 41.16412371619085 and parameters: {'C': 61.760238714511566, 'epsilon': 7.840954791905042, 'tau': 2055.6206279774015}. Best is trial 39 with value: 40.35612697757252.
+trail number 162
+[I 2025-07-20 19:18:34,714] Trial 162 finished with value: 42.43006609319706 and parameters: {'C': 208.72974059202818, 'epsilon': 6.636825877058658, 'tau': 4180.7228821947465}. Best is trial 39 with value: 40.35612697757252.
+trail number 161
+[I 2025-07-20 19:18:34,729] Trial 161 finished with value: 42.896395916830535 and parameters: {'C': 574.9263406217616, 'epsilon': 15.725715962166213, 'tau': 4808.884712374298}. Best is trial 39 with value: 40.35612697757252.
+trail number 163
+[I 2025-07-20 19:18:39,123] Trial 163 finished with value: 41.56436983707348 and parameters: {'C': 38.79426315042525, 'epsilon': 17.452604439803025, 'tau': 2018.1731194308895}. Best is trial 39 with value: 40.35612697757252.
+trail number 164
+[I 2025-07-20 19:19:17,545] Trial 164 finished with value: 42.52238534837009 and parameters: {'C': 166.02564194488036, 'epsilon': 8.279536765242185, 'tau': 2040.9006385790071}. Best is trial 39 with value: 40.35612697757252.
+trail number 166
+[I 2025-07-20 19:19:22,469] Trial 166 finished with value: 49.36501882580419 and parameters: {'C': 12.292970721492978, 'epsilon': 10.250388502569907, 'tau': 2083.6498416453464}. Best is trial 39 with value: 40.35612697757252.
+trail number 165
+[I 2025-07-20 19:19:22,868] Trial 165 finished with value: 42.459382157050904 and parameters: {'C': 145.10755012072758, 'epsilon': 7.0951430266318525, 'tau': 2077.6052404577986}. Best is trial 39 with value: 40.35612697757252.
+trail number 167
+[I 2025-07-20 19:19:27,119] Trial 167 finished with value: 41.378439805462776 and parameters: {'C': 35.45688248359155, 'epsilon': 7.8272339141107405, 'tau': 2093.5108801692863}. Best is trial 39 with value: 40.35612697757252.
+trail number 168
+[I 2025-07-20 19:20:05,755] Trial 168 finished with value: 44.292237997748124 and parameters: {'C': 17.80618617690929, 'epsilon': 8.175104513536382, 'tau': 2235.9455220829423}. Best is trial 39 with value: 40.35612697757252.
+trail number 170
+[I 2025-07-20 19:20:09,996] Trial 170 finished with value: 43.80316936860155 and parameters: {'C': 678.1522473387628, 'epsilon': 28.294058931800635, 'tau': 2089.618159053619}. Best is trial 39 with value: 40.35612697757252.
+trail number 169
+[I 2025-07-20 19:20:10,279] Trial 169 finished with value: 42.2903302234977 and parameters: {'C': 111.65029081048758, 'epsilon': 5.923381874416512, 'tau': 2293.873238058148}. Best is trial 39 with value: 40.35612697757252.
+trail number 171
+[I 2025-07-20 19:20:14,821] Trial 171 finished with value: 59.59603243883394 and parameters: {'C': 2.0913932033100693, 'epsilon': 8.70964047388903, 'tau': 2077.9317487973344}. Best is trial 39 with value: 40.35612697757252.
+trail number 172
+[I 2025-07-20 19:20:53,449] Trial 172 finished with value: 41.74053907802126 and parameters: {'C': 29.118614411963826, 'epsilon': 5.792714999813569, 'tau': 2253.086466591621}. Best is trial 39 with value: 40.35612697757252.
+trail number 173
+[I 2025-07-20 19:20:57,655] Trial 173 finished with value: 42.32536395737914 and parameters: {'C': 154.58763320841538, 'epsilon': 4.740004179988659, 'tau': 2777.738547568944}. Best is trial 39 with value: 40.35612697757252.
+trail number 174
+[I 2025-07-20 19:20:58,562] Trial 174 finished with value: 41.65133894851226 and parameters: {'C': 85.13234822621239, 'epsilon': 5.258699943916631, 'tau': 2890.5695609628006}. Best is trial 39 with value: 40.35612697757252.
+trail number 175
+[I 2025-07-20 19:21:03,985] Trial 175 finished with value: 61.94755245445107 and parameters: {'C': 6.8137997489758675, 'epsilon': 4.493610675966656, 'tau': 3153.5579899637964}. Best is trial 39 with value: 40.35612697757252.
+trail number 176
+[I 2025-07-20 19:21:42,943] Trial 176 finished with value: 41.22373868889251 and parameters: {'C': 79.36008920704158, 'epsilon': 0.2996367234651546, 'tau': 3184.1692670406933}. Best is trial 39 with value: 40.35612697757252.
+trail number 177
+[I 2025-07-20 19:21:47,719] Trial 177 finished with value: 42.51588461518763 and parameters: {'C': 132.7182443486987, 'epsilon': 8.448048695003509, 'tau': 2031.9855440167428}. Best is trial 39 with value: 40.35612697757252.
+trail number 178
+[I 2025-07-20 19:21:48,076] Trial 178 finished with value: 41.46675434868042 and parameters: {'C': 66.59274196009214, 'epsilon': 11.368929280862368, 'tau': 2061.5437788524937}. Best is trial 39 with value: 40.35612697757252.
+trail number 179
+[I 2025-07-20 19:21:52,844] Trial 179 finished with value: 42.52401844631216 and parameters: {'C': 92.7614629801264, 'epsilon': 12.667219123940647, 'tau': 2076.6547718381976}. Best is trial 39 with value: 40.35612697757252.
+trail number 180
+[I 2025-07-20 19:22:31,351] Trial 180 finished with value: 40.80484480423123 and parameters: {'C': 56.9222264251132, 'epsilon': 3.7957009565909416, 'tau': 3110.2734419890708}. Best is trial 39 with value: 40.35612697757252.
+trail number 181
+[I 2025-07-20 19:22:34,368] Trial 181 finished with value: 41.928779161517625 and parameters: {'C': 30.824866517526274, 'epsilon': 3.072244145452347, 'tau': 3270.0849975097103}. Best is trial 39 with value: 40.35612697757252.
+trail number 182
+[I 2025-07-20 19:22:36,810] Trial 182 finished with value: 46.13233864275806 and parameters: {'C': 16.15755758905184, 'epsilon': 3.7941241747793883, 'tau': 2763.7825256787605}. Best is trial 39 with value: 40.35612697757252.
+trail number 183
+[I 2025-07-20 19:22:41,346] Trial 183 finished with value: 40.48776002321186 and parameters: {'C': 68.63067370360884, 'epsilon': 3.9669307122606097, 'tau': 3316.1688398159226}. Best is trial 39 with value: 40.35612697757252.
+trail number 184
+[I 2025-07-20 19:23:16,463] Trial 184 finished with value: 40.40825830167328 and parameters: {'C': 67.39204716854451, 'epsilon': 0.18943616060976592, 'tau': 3537.934320906314}. Best is trial 39 with value: 40.35612697757252.
+trail number 185
+[I 2025-07-20 19:23:20,295] Trial 185 finished with value: 43.10492157072811 and parameters: {'C': 23.025627933551682, 'epsilon': 2.5455881531203746, 'tau': 3139.8561118740836}. Best is trial 39 with value: 40.35612697757252.
+trail number 186
+[I 2025-07-20 19:23:26,939] Trial 186 finished with value: 41.51844871358266 and parameters: {'C': 32.20289232189717, 'epsilon': 0.6068377542506078, 'tau': 3322.676714368219}. Best is trial 39 with value: 40.35612697757252.
+trail number 187
+[I 2025-07-20 19:23:32,754] Trial 187 finished with value: 42.15978631046314 and parameters: {'C': 185.26251243561265, 'epsilon': 0.5180916522033839, 'tau': 3438.6270684562605}. Best is trial 39 with value: 40.35612697757252.
+trail number 188
+[I 2025-07-20 19:24:02,873] Trial 188 finished with value: 41.94000394940782 and parameters: {'C': 104.47275289443341, 'epsilon': 3.2847072756209736, 'tau': 3528.039657003541}. Best is trial 39 with value: 40.35612697757252.
+trail number 189
+[I 2025-07-20 19:24:08,292] Trial 189 finished with value: 41.16056462288592 and parameters: {'C': 45.00510852632708, 'epsilon': 2.624664000238341, 'tau': 4078.0628956560518}. Best is trial 39 with value: 40.35612697757252.
+trail number 190
+[I 2025-07-20 19:24:18,540] Trial 190 finished with value: 41.669595681601834 and parameters: {'C': 30.919060046601977, 'epsilon': 0.08602091425570116, 'tau': 3532.071663293426}. Best is trial 39 with value: 40.35612697757252.
+trail number 191
+[I 2025-07-20 19:24:22,525] Trial 191 finished with value: 42.14774472694903 and parameters: {'C': 165.80156459163834, 'epsilon': 0.2479298097228, 'tau': 3311.005953252232}. Best is trial 39 with value: 40.35612697757252.
+trail number 192
+[I 2025-07-20 19:24:51,943] Trial 192 finished with value: 42.384517187557414 and parameters: {'C': 221.51312980226908, 'epsilon': 5.811689006977654, 'tau': 2908.6904547647}. Best is trial 39 with value: 40.35612697757252.
+trail number 193
+[I 2025-07-20 19:24:57,518] Trial 193 finished with value: 42.15719880422067 and parameters: {'C': 213.4647711148026, 'epsilon': 0.4463836848906289, 'tau': 3924.2454770736517}. Best is trial 39 with value: 40.35612697757252.
+trail number 194
+[I 2025-07-20 19:25:05,894] Trial 194 finished with value: 42.145355019438014 and parameters: {'C': 145.2692902983216, 'epsilon': 2.337190045717063, 'tau': 3989.3572007274743}. Best is trial 39 with value: 40.35612697757252.
+trail number 195
+[I 2025-07-20 19:25:10,441] Trial 195 finished with value: 42.611151595167 and parameters: {'C': 28.398311532311297, 'epsilon': 3.1251621146298127, 'tau': 4000.831573234415}. Best is trial 39 with value: 40.35612697757252.
+trail number 196
+[I 2025-07-20 19:25:41,003] Trial 196 finished with value: 50.62554894024736 and parameters: {'C': 15.924805520505409, 'epsilon': 0.5779701564945892, 'tau': 4004.8759489093077}. Best is trial 39 with value: 40.35612697757252.
+trail number 197
+[I 2025-07-20 19:25:44,926] Trial 197 finished with value: 42.15514508033151 and parameters: {'C': 173.8650127173206, 'epsilon': 1.0197860669090018, 'tau': 4337.466916725732}. Best is trial 39 with value: 40.35612697757252.
+trail number 198
+[I 2025-07-20 19:25:55,147] Trial 198 finished with value: 40.97348914597012 and parameters: {'C': 84.17529810881067, 'epsilon': 0.7009821859699914, 'tau': 4185.2257220810025}. Best is trial 39 with value: 40.35612697757252.
+trail number 199
+[I 2025-07-20 19:26:00,592] Trial 199 finished with value: 42.19472690883726 and parameters: {'C': 203.47376969986362, 'epsilon': 1.480152978680331, 'tau': 3105.509196137172}. Best is trial 39 with value: 40.35612697757252.
+trail number 200
+[I 2025-07-20 19:26:28,607] Trial 200 finished with value: 40.437805379659785 and parameters: {'C': 76.48215629430973, 'epsilon': 7.446075361878034, 'tau': 4116.83115460839}. Best is trial 39 with value: 40.35612697757252.
+trail number 201
+[I 2025-07-20 19:26:33,993] Trial 201 finished with value: 42.430224305216214 and parameters: {'C': 174.02344998850805, 'epsilon': 6.89858564175147, 'tau': 3692.485593957344}. Best is trial 39 with value: 40.35612697757252.
+trail number 202
+[I 2025-07-20 19:26:42,680] Trial 202 finished with value: 40.71681567462381 and parameters: {'C': 68.63420325131901, 'epsilon': 0.1946964741327908, 'tau': 4695.918140728555}. Best is trial 39 with value: 40.35612697757252.
+trail number 203
+[I 2025-07-20 19:26:47,728] Trial 203 finished with value: 41.81766697021961 and parameters: {'C': 39.051655981317246, 'epsilon': 5.623819142272585, 'tau': 4339.915386320766}. Best is trial 39 with value: 40.35612697757252.
+trail number 204
+[I 2025-07-20 19:27:15,895] Trial 204 finished with value: 41.970796079641886 and parameters: {'C': 125.09100189252635, 'epsilon': 1.836508998971113, 'tau': 4767.634137111823}. Best is trial 39 with value: 40.35612697757252.
+trail number 205
+[I 2025-07-20 19:27:19,425] Trial 205 finished with value: 42.51961637260996 and parameters: {'C': 159.77873023692177, 'epsilon': 9.760135323254262, 'tau': 3942.044336423055}. Best is trial 39 with value: 40.35612697757252.
+trail number 206
+[I 2025-07-20 19:27:33,100] Trial 206 finished with value: 42.0564721387008 and parameters: {'C': 133.39364933578608, 'epsilon': 1.3350051147128317, 'tau': 4659.821019653776}. Best is trial 39 with value: 40.35612697757252.
+trail number 207
+[I 2025-07-20 19:27:37,813] Trial 207 finished with value: 42.458584494644334 and parameters: {'C': 32.48838364008402, 'epsilon': 8.79865023829896, 'tau': 4182.417342261001}. Best is trial 39 with value: 40.35612697757252.
+trail number 208
+[I 2025-07-20 19:28:06,112] Trial 208 finished with value: 42.16820565537828 and parameters: {'C': 124.76803597127596, 'epsilon': 5.285608703407673, 'tau': 4186.164041958202}. Best is trial 39 with value: 40.35612697757252.
+trail number 209
+[I 2025-07-20 19:28:08,998] Trial 209 finished with value: 42.53790848408299 and parameters: {'C': 31.164420130145068, 'epsilon': 6.993102756494636, 'tau': 4032.6691883871385}. Best is trial 39 with value: 40.35612697757252.
+trail number 210
+[I 2025-07-20 19:28:21,713] Trial 210 finished with value: 40.56321630760076 and parameters: {'C': 79.87157081195001, 'epsilon': 1.2347189538453214, 'tau': 4370.621463344944}. Best is trial 39 with value: 40.35612697757252.
+trail number 211
+[I 2025-07-20 19:28:27,511] Trial 211 finished with value: 59.868455726831904 and parameters: {'C': 8.648979836162013, 'epsilon': 3.459170452596604, 'tau': 4259.415769510023}. Best is trial 39 with value: 40.35612697757252.
+trail number 212
+[I 2025-07-20 19:28:54,553] Trial 212 finished with value: 41.87576406308102 and parameters: {'C': 108.90130291452104, 'epsilon': 0.27574125867708243, 'tau': 3850.5406802114153}. Best is trial 39 with value: 40.35612697757252.
+trail number 213
+[I 2025-07-20 19:28:59,331] Trial 213 finished with value: 42.22754684963633 and parameters: {'C': 175.57986265518616, 'epsilon': 2.8384441507313536, 'tau': 4215.596123064759}. Best is trial 39 with value: 40.35612697757252.
+trail number 214
+[I 2025-07-20 19:29:09,913] Trial 214 finished with value: 41.15648087201644 and parameters: {'C': 49.33517427317179, 'epsilon': 2.6068425717374684, 'tau': 4864.894743631513}. Best is trial 39 with value: 40.35612697757252.
+trail number 215
+[I 2025-07-20 19:29:13,982] Trial 215 finished with value: 42.104699629218096 and parameters: {'C': 152.87470054171447, 'epsilon': 0.8240974461273313, 'tau': 4253.0087557985635}. Best is trial 39 with value: 40.35612697757252.
+trail number 216
+[I 2025-07-20 19:29:42,104] Trial 216 finished with value: 41.49720592368422 and parameters: {'C': 42.07702506769414, 'epsilon': 0.713468854746791, 'tau': 4976.108860767046}. Best is trial 39 with value: 40.35612697757252.
+trail number 217
+[I 2025-07-20 19:29:45,893] Trial 217 finished with value: 41.85715137286692 and parameters: {'C': 40.41923339835966, 'epsilon': 5.455928575782957, 'tau': 4935.42124967689}. Best is trial 39 with value: 40.35612697757252.
+trail number 218
+[I 2025-07-20 19:29:58,134] Trial 218 finished with value: 42.16362279292353 and parameters: {'C': 141.9002491864577, 'epsilon': 3.932422843899815, 'tau': 4924.276783696992}. Best is trial 39 with value: 40.35612697757252.
+trail number 219
+[I 2025-07-20 19:30:01,989] Trial 219 finished with value: 52.71422157777719 and parameters: {'C': 16.458280706126196, 'epsilon': 5.649798432078516, 'tau': 4742.297304546605}. Best is trial 39 with value: 40.35612697757252.
+trail number 220
+[I 2025-07-20 19:30:29,096] Trial 220 finished with value: 41.13261462503887 and parameters: {'C': 56.326539624679405, 'epsilon': 4.434934125611233, 'tau': 4792.844821441881}. Best is trial 39 with value: 40.35612697757252.
+trail number 221
+[I 2025-07-20 19:30:32,651] Trial 221 finished with value: 40.413157640828985 and parameters: {'C': 69.59243039981202, 'epsilon': 0.5494383268200562, 'tau': 4340.549282212432}. Best is trial 39 with value: 40.35612697757252.
+trail number 222
+[I 2025-07-20 19:30:44,693] Trial 222 finished with value: 41.114208225033565 and parameters: {'C': 51.18836236609795, 'epsilon': 1.4043584335361459, 'tau': 4518.143570117619}. Best is trial 39 with value: 40.35612697757252.
+trail number 223
+[I 2025-07-20 19:30:46,965] Trial 223 finished with value: 56.77473053052506 and parameters: {'C': 14.337752515273849, 'epsilon': 0.5764377125389437, 'tau': 4677.375231336045}. Best is trial 39 with value: 40.35612697757252.
+trail number 224
+[I 2025-07-20 19:31:17,013] Trial 224 finished with value: 42.49594646936557 and parameters: {'C': 425.14038044815567, 'epsilon': 7.751060206414995, 'tau': 4752.814467990371}. Best is trial 39 with value: 40.35612697757252.
+trail number 225
+[I 2025-07-20 19:31:20,425] Trial 225 finished with value: 45.518301928075196 and parameters: {'C': 21.142430945090553, 'epsilon': 0.004727241583851516, 'tau': 4487.594578022638}. Best is trial 39 with value: 40.35612697757252.
+trail number 226
+[I 2025-07-20 19:31:34,589] Trial 226 finished with value: 40.57690352352636 and parameters: {'C': 67.5894929378744, 'epsilon': 0.288168999457426, 'tau': 4425.8399633899035}. Best is trial 39 with value: 40.35612697757252.
+trail number 227
+[I 2025-07-20 19:31:34,592] Trial 227 finished with value: 45.34440171593444 and parameters: {'C': 21.200708667366655, 'epsilon': 1.1511460572029977, 'tau': 4282.605556274951}. Best is trial 39 with value: 40.35612697757252.
+trail number 228
+[I 2025-07-20 19:32:03,027] Trial 228 finished with value: 41.423844097790905 and parameters: {'C': 41.3441449556343, 'epsilon': 0.8456297413505262, 'tau': 4427.051678670627}. Best is trial 39 with value: 40.35612697757252.
+trail number 229
+[I 2025-07-20 19:32:03,946] Trial 229 finished with value: 42.3549387949158 and parameters: {'C': 152.59446640651728, 'epsilon': 7.37675792346666, 'tau': 4480.554169429931}. Best is trial 39 with value: 40.35612697757252.
+trail number 231
+[I 2025-07-20 19:32:18,233] Trial 231 finished with value: 42.23237595048418 and parameters: {'C': 238.3930321683706, 'epsilon': 2.4011119996995465, 'tau': 4517.214320128723}. Best is trial 39 with value: 40.35612697757252.
+trail number 230
+[I 2025-07-20 19:32:23,029] Trial 230 finished with value: 42.570033883165465 and parameters: {'C': 208.93365283781498, 'epsilon': 9.440800996104116, 'tau': 4781.169678154925}. Best is trial 39 with value: 40.35612697757252.
+trail number 233
+[I 2025-07-20 19:32:51,965] Trial 233 finished with value: 42.26001421080828 and parameters: {'C': 345.3186431809132, 'epsilon': 3.10287257089822, 'tau': 4773.710819378829}. Best is trial 39 with value: 40.35612697757252.
+trail number 232
+[I 2025-07-20 19:32:51,978] Trial 232 finished with value: 42.25893985033266 and parameters: {'C': 192.95272510714685, 'epsilon': 3.2786999011284625, 'tau': 4523.31646874553}. Best is trial 39 with value: 40.35612697757252.
+trail number 234
+[I 2025-07-20 19:33:04,170] Trial 234 finished with value: 42.07693959308366 and parameters: {'C': 147.41539647208, 'epsilon': 1.0163533742373128, 'tau': 4707.843117737097}. Best is trial 39 with value: 40.35612697757252.
+trail number 235
+[I 2025-07-20 19:33:14,978] Trial 235 finished with value: 42.08180384434043 and parameters: {'C': 157.00816827050693, 'epsilon': 0.42341641877516734, 'tau': 4687.485422637361}. Best is trial 39 with value: 40.35612697757252.
+trail number 237
+[I 2025-07-20 19:33:35,480] Trial 237 finished with value: 41.30081362063014 and parameters: {'C': 46.446292181466745, 'epsilon': 0.8949057956978586, 'tau': 4799.005295376457}. Best is trial 39 with value: 40.35612697757252.
+trail number 236
+[I 2025-07-20 19:33:38,273] Trial 236 finished with value: 41.04232702581508 and parameters: {'C': 92.48767685681136, 'epsilon': 0.32285768744162896, 'tau': 4896.040770765476}. Best is trial 39 with value: 40.35612697757252.
+trail number 238
+[I 2025-07-20 19:33:55,378] Trial 238 finished with value: 42.26581822132095 and parameters: {'C': 153.0590008911759, 'epsilon': 5.49149746187009, 'tau': 4419.982058290932}. Best is trial 39 with value: 40.35612697757252.
+trail number 239
+[I 2025-07-20 19:34:00,729] Trial 239 finished with value: 60.38684398721814 and parameters: {'C': 6.314969311460132, 'epsilon': 5.094299599626034, 'tau': 4714.217914328532}. Best is trial 39 with value: 40.35612697757252.
+trail number 240
+[I 2025-07-20 19:34:24,591] Trial 240 finished with value: 41.73525738002447 and parameters: {'C': 43.030848246730784, 'epsilon': 11.749864501643717, 'tau': 3744.8886191860342}. Best is trial 39 with value: 40.35612697757252.
+trail number 241
+[I 2025-07-20 19:34:25,072] Trial 241 finished with value: 46.63502069671186 and parameters: {'C': 16.752713249730334, 'epsilon': 7.957792338056988, 'tau': 3034.915469628449}. Best is trial 39 with value: 40.35612697757252.
+trail number 242
+[I 2025-07-20 19:34:44,278] Trial 242 finished with value: 41.55281335718085 and parameters: {'C': 102.61317313518428, 'epsilon': 0.2876408552054723, 'tau': 4351.006628311777}. Best is trial 39 with value: 40.35612697757252.
+trail number 243
+[I 2025-07-20 19:34:47,614] Trial 243 finished with value: 42.527973081111384 and parameters: {'C': 726.3738328823237, 'epsilon': 8.39421255391698, 'tau': 2477.2577742893013}. Best is trial 39 with value: 40.35612697757252.
+trail number 244
+[I 2025-07-20 19:35:12,358] Trial 244 finished with value: 41.10772924989923 and parameters: {'C': 93.5989028330205, 'epsilon': 0.10018656292993183, 'tau': 4800.658744496828}. Best is trial 39 with value: 40.35612697757252.
+trail number 245
+[I 2025-07-20 19:35:16,019] Trial 245 finished with value: 42.15158359979055 and parameters: {'C': 207.83273991741058, 'epsilon': 0.3243563390694679, 'tau': 4943.642103004416}. Best is trial 39 with value: 40.35612697757252.
+trail number 246
+[I 2025-07-20 19:35:31,085] Trial 246 finished with value: 42.049361053105635 and parameters: {'C': 150.31585296703454, 'epsilon': 0.21120395228133232, 'tau': 4951.392216138201}. Best is trial 39 with value: 40.35612697757252.
+trail number 247
+[I 2025-07-20 19:35:35,007] Trial 247 finished with value: 41.49932531267085 and parameters: {'C': 49.241165059249155, 'epsilon': 5.175979399775171, 'tau': 4972.244248285087}. Best is trial 39 with value: 40.35612697757252.
+trail number 248
+[I 2025-07-20 19:35:59,559] Trial 248 finished with value: 42.11082607185671 and parameters: {'C': 166.08339710396368, 'epsilon': 0.02809539276297368, 'tau': 4366.44892602094}. Best is trial 39 with value: 40.35612697757252.
+trail number 249
+[I 2025-07-20 19:36:03,852] Trial 249 finished with value: 42.15697154103973 and parameters: {'C': 187.47040368260267, 'epsilon': 0.5833306467332746, 'tau': 4392.439871977955}. Best is trial 39 with value: 40.35612697757252.
+trail number 250
+[I 2025-07-20 19:36:17,992] Trial 250 finished with value: 42.41841781674998 and parameters: {'C': 142.63497997064258, 'epsilon': 7.606290379264401, 'tau': 3228.844785723762}. Best is trial 39 with value: 40.35612697757252.
+trail number 251
+[I 2025-07-20 19:36:22,847] Trial 251 finished with value: 42.13091862412266 and parameters: {'C': 168.57564182584758, 'epsilon': 0.3700866363257923, 'tau': 4165.64101718543}. Best is trial 39 with value: 40.35612697757252.
+trail number 252
+[I 2025-07-20 19:36:47,473] Trial 252 finished with value: 41.03554158743918 and parameters: {'C': 61.74389087421216, 'epsilon': 0.005537962294784093, 'tau': 4213.691642896698}. Best is trial 39 with value: 40.35612697757252.
+trail number 253
+[I 2025-07-20 19:36:49,343] Trial 253 finished with value: 45.7134166148359 and parameters: {'C': 19.74998449857035, 'epsilon': 0.5414567505175618, 'tau': 4056.366066620363}. Best is trial 39 with value: 40.35612697757252.
+trail number 254
+[I 2025-07-20 19:37:06,493] Trial 254 finished with value: 41.352472534146926 and parameters: {'C': 42.34370138857212, 'epsilon': 0.8874035492119408, 'tau': 4275.160923102243}. Best is trial 39 with value: 40.35612697757252.
+trail number 255
+[I 2025-07-20 19:37:11,436] Trial 255 finished with value: 42.745932767895376 and parameters: {'C': 26.327091771641363, 'epsilon': 0.0418509172838456, 'tau': 3904.195749672394}. Best is trial 39 with value: 40.35612697757252.
+trail number 257
+[I 2025-07-20 19:37:36,012] Trial 257 finished with value: 43.39367724509487 and parameters: {'C': 535.027563268267, 'epsilon': 23.158406179230468, 'tau': 3639.2230274738085}. Best is trial 39 with value: 40.35612697757252.
+trail number 256
+[I 2025-07-20 19:37:36,051] Trial 256 finished with value: 41.99991102553325 and parameters: {'C': 116.59867415706249, 'epsilon': 4.622022879208537, 'tau': 4263.316788468526}. Best is trial 39 with value: 40.35612697757252.
+trail number 258
+[I 2025-07-20 19:37:55,173] Trial 258 finished with value: 43.3220343725693 and parameters: {'C': 26.902034507763, 'epsilon': 3.685014048557331, 'tau': 4616.582483741991}. Best is trial 39 with value: 40.35612697757252.
+trail number 259
+[I 2025-07-20 19:37:59,350] Trial 259 finished with value: 41.071613131688004 and parameters: {'C': 59.39003208785668, 'epsilon': 5.6588680345599105, 'tau': 4414.647845014757}. Best is trial 39 with value: 40.35612697757252.
+trail number 260
+[I 2025-07-20 19:38:22,357] Trial 260 finished with value: 41.9688406184913 and parameters: {'C': 36.6896318650695, 'epsilon': 4.935893038590326, 'tau': 4481.069206367989}. Best is trial 39 with value: 40.35612697757252.
+trail number 261
+[I 2025-07-20 19:38:25,156] Trial 261 finished with value: 48.86210528539347 and parameters: {'C': 15.443664760229545, 'epsilon': 14.080353929652457, 'tau': 3149.093121903235}. Best is trial 39 with value: 40.35612697757252.
+trail number 262
+[I 2025-07-20 19:38:45,008] Trial 262 finished with value: 43.0812569563878 and parameters: {'C': 26.88518116265593, 'epsilon': 6.390112861050964, 'tau': 3750.673723287693}. Best is trial 39 with value: 40.35612697757252.
+trail number 263
+[I 2025-07-20 19:38:45,630] Trial 263 finished with value: 42.192174199643226 and parameters: {'C': 770.6021412500877, 'epsilon': 1.4144702019527955, 'tau': 2861.57305970446}. Best is trial 39 with value: 40.35612697757252.
+trail number 264
+[I 2025-07-20 19:39:07,446] Trial 264 finished with value: 42.7727259604676 and parameters: {'C': 29.080406674029348, 'epsilon': 0.5745145500885629, 'tau': 4715.318215409947}. Best is trial 39 with value: 40.35612697757252.
+trail number 265
+[I 2025-07-20 19:39:15,952] Trial 265 finished with value: 62.65081124301737 and parameters: {'C': 3.3430613624423984, 'epsilon': 1.8723841552084743, 'tau': 4610.961159120143}. Best is trial 39 with value: 40.35612697757252.
+trail number 267
+[I 2025-07-20 19:39:29,316] Trial 267 finished with value: 41.06671852286373 and parameters: {'C': 54.69330047805046, 'epsilon': 0.08749937567719768, 'tau': 4735.882387159826}. Best is trial 39 with value: 40.35612697757252.
+trail number 266
+[I 2025-07-20 19:39:32,469] Trial 266 finished with value: 41.23504236140146 and parameters: {'C': 56.828770589829034, 'epsilon': 9.19929851027284, 'tau': 4418.304394795177}. Best is trial 39 with value: 40.35612697757252.
+trail number 268
+[I 2025-07-20 19:39:54,546] Trial 268 finished with value: 41.18496072255185 and parameters: {'C': 91.41916248645487, 'epsilon': 6.954212399068022, 'tau': 4427.86524395153}. Best is trial 39 with value: 40.35612697757252.
+trail number 269
+[I 2025-07-20 19:40:06,570] Trial 269 finished with value: 42.74773296301494 and parameters: {'C': 221.44283785475437, 'epsilon': 12.914730969615803, 'tau': 4293.916104213933}. Best is trial 39 with value: 40.35612697757252.
+trail number 270
+[I 2025-07-20 19:40:18,115] Trial 270 finished with value: 42.38282647810551 and parameters: {'C': 225.4398670156893, 'epsilon': 5.777565509861874, 'tau': 3669.764334085855}. Best is trial 39 with value: 40.35612697757252.
+trail number 271
+[I 2025-07-20 19:40:22,028] Trial 271 finished with value: 41.912530767898424 and parameters: {'C': 116.31320153417637, 'epsilon': 1.0836417508777059, 'tau': 4302.814653369963}. Best is trial 39 with value: 40.35612697757252.
+trail number 272
+[I 2025-07-20 19:40:42,127] Trial 272 finished with value: 43.54100598976327 and parameters: {'C': 24.702488494045646, 'epsilon': 0.08276073828672303, 'tau': 4833.909063304743}. Best is trial 39 with value: 40.35612697757252.
+trail number 273
+[I 2025-07-20 19:40:54,233] Trial 273 finished with value: 41.51534029579331 and parameters: {'C': 105.43259148082575, 'epsilon': 0.5636952528236698, 'tau': 4691.575651802101}. Best is trial 39 with value: 40.35612697757252.
+trail number 274
+[I 2025-07-20 19:41:06,552] Trial 274 finished with value: 41.25514037168258 and parameters: {'C': 95.76385344969927, 'epsilon': 1.7238785894141264, 'tau': 4551.340187774485}. Best is trial 39 with value: 40.35612697757252.
+trail number 275
+[I 2025-07-20 19:41:11,272] Trial 275 finished with value: 40.97083518488352 and parameters: {'C': 59.90894448676769, 'epsilon': 0.07570031998241958, 'tau': 4947.44244507075}. Best is trial 39 with value: 40.35612697757252.
+trail number 276
+[I 2025-07-20 19:41:28,834] Trial 276 finished with value: 42.3215408913842 and parameters: {'C': 100.80734632353824, 'epsilon': 9.971403522329563, 'tau': 2779.2925369841487}. Best is trial 39 with value: 40.35612697757252.
+trail number 277
+[I 2025-07-20 19:41:44,496] Trial 277 finished with value: 42.53987776094621 and parameters: {'C': 131.8904958496821, 'epsilon': 10.901921786918788, 'tau': 2952.260623259739}. Best is trial 39 with value: 40.35612697757252.
+trail number 278
+[I 2025-07-20 19:41:58,973] Trial 278 finished with value: 42.42403400556297 and parameters: {'C': 106.02701543833504, 'epsilon': 12.49724061909496, 'tau': 2992.854468111159}. Best is trial 39 with value: 40.35612697757252.
+trail number 279
+[I 2025-07-20 19:42:05,361] Trial 279 finished with value: 42.46999517057385 and parameters: {'C': 130.0459250341449, 'epsilon': 9.296586729364954, 'tau': 2871.276776694932}. Best is trial 39 with value: 40.35612697757252.
+trail number 280
+[I 2025-07-20 19:42:22,145] Trial 280 finished with value: 42.23088266095165 and parameters: {'C': 120.47944005235644, 'epsilon': 5.40791723605277, 'tau': 3435.9549974525166}. Best is trial 39 with value: 40.35612697757252.
+trail number 281
+[I 2025-07-20 19:42:37,706] Trial 281 finished with value: 42.219284001662565 and parameters: {'C': 665.7503943120639, 'epsilon': 2.084940272588435, 'tau': 4570.061113782908}. Best is trial 39 with value: 40.35612697757252.
+trail number 282
+[I 2025-07-20 19:42:52,891] Trial 282 finished with value: 42.04784724708499 and parameters: {'C': 144.47932288904735, 'epsilon': 0.4879192569257024, 'tau': 4971.083326431459}. Best is trial 39 with value: 40.35612697757252.
+trail number 283
+[I 2025-07-20 19:42:59,499] Trial 283 finished with value: 42.164484106530196 and parameters: {'C': 181.13968055126566, 'epsilon': 1.4009259982503295, 'tau': 4862.1398808438125}. Best is trial 39 with value: 40.35612697757252.
+trail number 284
+[I 2025-07-20 19:43:12,603] Trial 284 finished with value: 42.16692047619524 and parameters: {'C': 420.85027587205036, 'epsilon': 0.7225586799046436, 'tau': 4024.539342596957}. Best is trial 39 with value: 40.35612697757252.
+trail number 285
+[I 2025-07-20 19:43:26,661] Trial 285 finished with value: 41.00707821065987 and parameters: {'C': 57.77051565376695, 'epsilon': 1.5008577730908357, 'tau': 4958.436651769748}. Best is trial 39 with value: 40.35612697757252.
+trail number 286
+[I 2025-07-20 19:43:41,368] Trial 286 finished with value: 42.17054386725528 and parameters: {'C': 253.62005927933328, 'epsilon': 0.823735271446787, 'tau': 4729.105835691647}. Best is trial 39 with value: 40.35612697757252.
+trail number 287
+[I 2025-07-20 19:43:45,554] Trial 287 finished with value: 42.142899582555444 and parameters: {'C': 356.2559888404022, 'epsilon': 0.04355932508923848, 'tau': 4991.955900409649}. Best is trial 39 with value: 40.35612697757252.
+trail number 288
+[I 2025-07-20 19:43:56,328] Trial 288 finished with value: 42.17095969340803 and parameters: {'C': 28.878555758721937, 'epsilon': 5.6622481424470195, 'tau': 3044.944123183436}. Best is trial 39 with value: 40.35612697757252.
+trail number 289
+[I 2025-07-20 19:44:14,905] Trial 289 finished with value: 41.38647074927969 and parameters: {'C': 46.39803493366049, 'epsilon': 0.3006310062070928, 'tau': 4687.620226382237}. Best is trial 39 with value: 40.35612697757252.
+trail number 290
+[I 2025-07-20 19:44:29,251] Trial 290 finished with value: 42.58931679264476 and parameters: {'C': 519.517951298493, 'epsilon': 9.655217887037772, 'tau': 3304.2246990727936}. Best is trial 39 with value: 40.35612697757252.
+trail number 291
+[I 2025-07-20 19:44:35,257] Trial 291 finished with value: 41.057218191411756 and parameters: {'C': 87.70677153145934, 'epsilon': 0.37893769010809575, 'tau': 4365.312612030741}. Best is trial 39 with value: 40.35612697757252.
+trail number 292
+[I 2025-07-20 19:44:47,547] Trial 292 finished with value: 41.9384928449777 and parameters: {'C': 121.5173243613651, 'epsilon': 0.05641558987463113, 'tau': 4452.412026116614}. Best is trial 39 with value: 40.35612697757252.
