@@ -1,6 +1,6 @@
-# Multi-Kernel Support Vector Regression
+# Multi-Kernel Support Vector Regression with Regularized Kernel Weights
 
-This repository contains the implementation and analysis of various Multi-Kernel Support Vector Regression (SVR) models. It explores different optimization formulations, including QCQP (Quadratically Constrained Quadratic Program) with L1 and L2 regularization, and applies them to the diabetes and sunspot datasets.
+This repository contains the implementation and analysis of various Multi-Kernel Support Vector Regression (MSVR) models for the paper `Multikernel Support Vector Regression with Regularized Kernel Weights`. It explores different optimization formulations, including QCQP (Quadratically Constrained Quadratic Program) with L1 and L2 regularization, and applies them to the diabetes and sunspot datasets.
 
 ## Project Structure
 
